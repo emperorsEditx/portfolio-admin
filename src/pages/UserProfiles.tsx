@@ -24,4 +24,8 @@ export default function UserProfiles() {
       </div>
     </>
   );
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6e7a09ac63796a827748cdac0d07800b049f15bf

@@ -18,7 +18,10 @@ import Blank from "./pages/Blank";
 import AppLayout from "./layout/AppLayout";
 import { ScrollToTop } from "./components/common/ScrollToTop";
 import Home from "./pages/Dashboard/Home";
+<<<<<<< HEAD
 import User from "./pages/User";//adding for user profiles
+=======
+>>>>>>> 6e7a09ac63796a827748cdac0d07800b049f15bf
 
 export default function App() {
   return (
@@ -34,7 +37,11 @@ export default function App() {
             <Route path="/profile" element={<UserProfiles />} />
             <Route path="/calendar" element={<Calendar />} />
             <Route path="/blank" element={<Blank />} />
+<<<<<<< HEAD
             <Route path="/user" element={<User />} />{/*Creating for ManageUser page */}
+=======
+
+>>>>>>> 6e7a09ac63796a827748cdac0d07800b049f15bf
             {/* Forms */}
             <Route path="/form-elements" element={<FormElements />} />
 

@@ -36,12 +36,15 @@ const navItems: NavItem[] = [
     name: "Calendar",
     path: "/calendar",
   },
+<<<<<<< HEAD
   //adding for showing new page(ManageUsers)
   {
     icon: <UserCircleIcon />,
     name: "Manage Users",
     path: "/user",
   },
+=======
+>>>>>>> 6e7a09ac63796a827748cdac0d07800b049f15bf
   {
     icon: <UserCircleIcon />,
     name: "User Profile",
